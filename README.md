@@ -21,7 +21,12 @@ for key in bio:
 ---
 Hi, my name is Evan Cooper -- it's nice to meet you! :wave:
 
-I am currently pursuing a `Bachelor of Science in Computer Science` from `Colorado State University Global`. 
+I am currently pursuing a `B.S. in Computer Science` from:
+<p align ='center'>
+    <a href='https://csuglobal.edu/academic-programs/undergraduate-degrees/bachelors-degree-computer-science'/>
+        <img alt='Colorado State University Global' src='https://img.shields.io/badge/Colorado%20State%20University%20Global-AA1D40?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAMAAAANxBKoAAAAwFBMVEUAAADSjj7Rjj7MhDytHECoHD7Sjj6EEiHRjj6IFCXjlzjRjj3Sjj7Sjz7RjT3Ujj7Rjj7KhzuZGTOAER%2FSjj7UkT%2BGEyPTjz7Sjz7Sjz6oGz3Qjz%2FTkUHQjz7QkD%2BCEiB%2FEh%2FXk0CtHUCrHECDEyLUkEDblULblkLQjT6pGz7NjDyoGz%2BKFiiHEyOKFiiGFymGFSrPjz9%2FEh%2BpHD%2FZlEHfmEPTkD%2FXkkDVkUDhmUPclUKxHUKHEyHclkLnnUWBEyHirYTlAAAAMnRSTlMA%2FfsE%2Ffz66MEqBvetoI5ZRhYQ5uLPubh4cVFQOjEe%2Bvrx2trQy720m25mVVFAOTckEPDu%2FIwAAAFXSURBVEjH5dLXbsJAEEDRaxtIoxNaKOm9rwuGBPL%2FfxW8GiMv3ghQHjkPNkiXQTta9ljNiwO2ch9wOKUN3LGRx4wShHTZyad%2BjthewAN2pTp5Di5Wl8TknYxuyetGDLGZe1RzqwhwsGu0yYs9%2BfDl%2B8UfpdQ3qTJrTitDSTWlyQ8Glcn6YWr65YuWEtjF2RrI1ovAPGdJ3ml8BMbsYzJ66VeJz9SH5Nh4YzSJl6eU6bKDQfYC1yu1Va2fLcmlnjsL4zbM0lqe70odJDkm8xTLuKBr3nQudeCYGz9EFPxHrvxl9ZrkIurNjdnOKk4GX6sOKMmtjBV2zAWOZ0ZUdyK5UpIj98QqJF1oUecvOr5AuCFWMt022a4pNc0jmXxSZV3mIIVlfW5bL3Y3ZD3xb8Umec9F%2FjZhByH9BqKx8XjuNJledpi4RFPKJTZw9V%2FEDhHbCfvJ4L31C5yDM%2BAdxGRlAAAAAElFTkSuQmCC&labelColor=white'/>
+    </a>
+</p>
 
 Although I am still in the early stages of my education, I have already discovered a passion for programming!
 
