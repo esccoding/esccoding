@@ -52,9 +52,13 @@ Although I am still in the early stages of my education, I have already discover
     <a href='https://www.python.org/'><img alt='Python' src='https://img.shields.io/badge/Python-3974A4?logo=python&logoColor=FFE364'/></a>
 </p>
 
-### Coding Tools
+### Markup Languages
 <p align ='left'>
     <a href='https://www.markdownguide.org/'><img alt='Markdown' src='https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white'/></a>  
+</p>
+
+### Code Editors
+<p align ='left'>
     <a href='https://code.visualstudio.com/'><img alt='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-23A8F2?logo=visualstudiocode&logoColor=white'/></a>
 </p>
 
