@@ -32,7 +32,8 @@ Although I am still in the early stages of my education, I have already discover
 
 
 - 🌎 I am based in York, PA, USA
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='24'/> I am currently learning Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='24'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='24'/> I am currently learning Python and C++
 - 🖥️🎮 I am interested in both software and game development
 - 🕵️‍♂️ I am passionate about developing creative software solutions for modern day dilemmas
 - 🌱 I am eager to continue growing my coding skillset
@@ -103,8 +104,7 @@ Although I am still in the early stages of my education, I have already discover
 <h3 align='center'> Currently Training:</h3>
 <p align ='center'>
     <a href='https://www.python.org/'><img alt='Python' src='https://img.shields.io/badge/Python-3974A4?logo=python&logoColor=FFE364'/></a>
-    <a href='https://html.spec.whatwg.org/multipage/'><img alt='HTML5' src='https://img.shields.io/badge/HTML5%20-%20%23E54C21?logo=html5&logoColor=white'/></a>
-    <a href='https://www.w3schools.com/css/default.asp'><img alt='CSS3' src='https://img.shields.io/badge/CSS%20-%20%23214CE5?logo=CSS3&logoColor=white'/></a>
+    <a href='https://devdocs.io/cpp/'><img alt='C++' src='https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus'/></a>
     <a href='https://godotengine.org/'><img alt='Godot Engine' src='https://img.shields.io/badge/Godot%20Engine-24282F?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtBAMAAADINP%2BpAAAAG1BMVEUAAABHjL5HjL%2F%2F%2F%2F9BQEKgxN6Wvtt%2BrtJyp87MYbzVAAAAAnRSTlMA%2FbWfQ5kAAAC1SURBVDjLvdFhCsIwDAXgqBepbyD%2BbhQPYE%2Fg%2FQ%2FjW0O6sqwiKj7G1n6EpmHyp%2ByR%2BAYC4yiyAxAc9o7OfO1oSV0tnyXcmCMkWXnMK8dG0qB%2B1Hfo3liziS3EXVWNJ9XcnLty5%2FYBcKGdX0rJmChcfO71WFSf2GhxUjaHKjq32AzR8Z4ffFqfWL3%2BZB21dr%2F295mdn9mxchqC2xlQXd%2F%2FbH4Dmkv8XdsDiCeUewJ7BtyayK%2FzBK6%2BUt09uDPLAAAAAElFTkSuQmCC'/></a>
 
 
