@@ -105,6 +105,7 @@ Although I am still in the early stages of my education, I have already discover
 <p align ='center'>
     <a href='https://www.python.org/'><img alt='Python' src='https://img.shields.io/badge/Python-3974A4?logo=python&logoColor=FFE364'/></a>
     <a href='https://devdocs.io/cpp/'><img alt='C++' src='https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus'/></a>
+    <a href='https://visualstudio.microsoft.com/vs/'><img alt='Visual Studio' src='https://img.shields.io/badge/Visual%20Studio-%238B55CA?logo=visualstudio'/></a>
     <a href='https://godotengine.org/'><img alt='Godot Engine' src='https://img.shields.io/badge/Godot%20Engine-24282F?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtBAMAAADINP%2BpAAAAG1BMVEUAAABHjL5HjL%2F%2F%2F%2F9BQEKgxN6Wvtt%2BrtJyp87MYbzVAAAAAnRSTlMA%2FbWfQ5kAAAC1SURBVDjLvdFhCsIwDAXgqBepbyD%2BbhQPYE%2Fg%2FQ%2FjW0O6sqwiKj7G1n6EpmHyp%2ByR%2BAYC4yiyAxAc9o7OfO1oSV0tnyXcmCMkWXnMK8dG0qB%2B1Hfo3liziS3EXVWNJ9XcnLty5%2FYBcKGdX0rJmChcfO71WFSf2GhxUjaHKjq32AzR8Z4ffFqfWL3%2BZB21dr%2F295mdn9mxchqC2xlQXd%2F%2FbH4Dmkv8XdsDiCeUewJ7BtyayK%2FzBK6%2BUt09uDPLAAAAAElFTkSuQmCC'/></a>
 
 
