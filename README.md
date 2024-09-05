@@ -113,4 +113,4 @@ Although I am still in the early stages of my education, I have already discover
 </p>
 
 ---
-<p align='center'><a href="https://imgbb.com/"><img src="https://i.ibb.co/6mBZChK/billgates-sw-quote.png" alt="billgates-sw-quote" border="0"></a></p>
+<p align='center'><a href="https://postimg.cc/SXjjtDyr"><img src="https://i.postimg.cc/FKVczB82/billgates-sw-quote.png" alt="billgates-sw-quote" border="0"></a></p>
