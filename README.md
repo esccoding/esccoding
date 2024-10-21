@@ -2,9 +2,9 @@
 # AboutMe
 bio = {
     'name' : 'Evan Cooper',
-    'position' : 'CSUG Computer Science student',
+    'position' : 'CSU-G Computer Science Junior',
     'goal' : 'Aspiring Software Developer',
-    'title' : 'Friend of Cats'
+    'title' : 'Cat Dad'
 }
 
 for key in bio:
@@ -12,14 +12,14 @@ for key in bio:
 ```
 <h1 align='left'> Evan Cooper </h1>
 
-<h3 alight='left'> CSUG Computer Science student 🏫 </h1>
+<h3 alight='left'> CSU-G Computer Science Junior 🏫 </h1>
 <h3 alight='left'> Aspiring Software Developer 💻 </h1>
-<h3 alight='left'> Friend of Cats 🐈 </h1>
+<h3 alight='left'> Cat Dad 🐈 </h1>
 
 <p align='center'> <img src='https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif' width='240'/>
 
 ---
-Hi, my name is Evan Cooper -- it's nice to meet you! :wave:
+Hi, my name is Evan Cooper -- nice to meet you! :wave:
 
 I am currently pursuing a `B.S. in Computer Science` from:
 <p align ='center'>
@@ -28,15 +28,13 @@ I am currently pursuing a `B.S. in Computer Science` from:
     </a>
 </p>
 
-Although I am still in the early stages of my education, I have already discovered a passion for programming!
-
-
 - 🌎 I am based in York, PA, USA
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='24'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='24'/> I am currently learning Python and C++
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='24'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='24'/> I am currently learning Java and Python
 - 🖥️🎮 I am interested in both software and game development
 - 🕵️‍♂️ I am passionate about developing creative software solutions for modern day dilemmas
 - 🌱 I am eager to continue growing my coding skillset
+- 🧠 I have a particular interest in both data structures and procedural generation
 
 ---
 ### 📶 If you would like to connect with me:
@@ -58,9 +56,13 @@ Although I am still in the early stages of my education, I have already discover
     <a href='https://www.markdownguide.org/'><img alt='Markdown' src='https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white'/></a>  
 </p>
 
-### Code Editors
+### Code Editors/IDEs
 <p align ='left'>
-    <a href='https://code.visualstudio.com/'><img alt='Visual Studio Code' src='https://img.shields.io/badge/Visual%20Studio%20Code-23A8F2?logo=visualstudiocode&logoColor=white'/></a>
+    <a href='https://code.visualstudio.com/'><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%232EA5E8?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAApVBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B4%2FeNVAAAANnRSTlMALH9UVf3qBRIL90P62vPPI6O9b0oW8OS2Gojf1ZFeMx4Hy6%2BagXcvxsNrYzcOUZVap2eqfDukgBifAAAGDElEQVR42u2di1biMBCGh9VeKAWkpdxvchHksirqvP%2BjLXt217BSSEICGXLyPYDHT4r%2FTDJpwOFwOBwOh8PhcDgcdlGogyWUq4MAbGCJWF7ZoBLGiNh8KsJtUegn7wP4jwR%2F4z9t4IZYRbhjsYE9OviHxiyDW%2BED%2F%2FAGe7ziPyr9NtwEffyL1wZGCRnx9AHIE7zhFyVgDHEf720OtCm2kHEHjAJ%2BI%2FkEwoQL5IkwnunG%2FaiMAiKM6gBIUmiimAijR7FyWfsoLMLoptTivh6hjAjDn5GK%2B0GMkiKMRicEKqQeniFCL%2B47iDwRDnGNQNwHNVQQYZVLBoZgca4iwvBLYA4W5%2Boi6N2DOUY91CaC0RAMwOJcmwj2TCX92ketIrgCI5QqqFlkDCYYxKhbBEdwfVIP9YvcwdWZIV5AJIUrwuJcv8gPuC6PE7RCJHxGK0TaVbRC5KGMVogMfbRCZBfnVoj8jNAKkaWHVojMEEmIjD6SZqNXq8OZTJGESPgS%2F6uW52fGOQmReRe%2FiNKz4pyEyF0F96kV5eOchMhB91AuyMY5CZE%2BHlB5lYtzCiJsb%2B%2FMx6vUQAoixRbmU30QjnMKItkYj9H4KRjnFESyKp5gGgCPJ0QSImM8yYK3AvOCNERS5ODXT8b5OxIR6SIPbwZH2SRIRGSNAiQZ5%2Fslz8ujZpEViuCXVOI8P2w1i3ygEPET5DDB8%2BgVQLvIEgVphTkVQUcuQVjFoF%2BkjqJ0h3k1cwNliVYAFxB5rKAo8RIOeaiiHOU5XEQE%2BijOJMz5S%2FQRFX6EPpHQRw68JmWg8KFqFIFhBcWJtnm%2FRw%2FFaK5BVUR1bZAxLeb0ATXZf3zqIurtXS%2F38YrkKx11EfmE5vfA8zK%2FONAvIl8z8ZuUzekyOGnDNUSgmKAM47weOI3xGF4HQKOIxr6icQeHDLvclkZdhM8UZfD6QU4mtTCP8Qh0iujuvZ%2FbeT%2FD4ygri8ithpzfpJSa3x%2FCewDtIurrU%2FyvcJZwlsbURBRWDKV74JmX03roFdG%2Fhtv8zOtx%2FJzWQ7%2BIcsjze%2BDRghUzhkTk9zlwktsDs8fKgAjbeZKim1ec%2F%2FRTALMiUJzgDtUmJQDjIpyQF91JoSACM%2FmVKpoikHrSizw0ReA1ln%2B8SIpIdPKsGiEpIhHyrD4kKQKFLjJEmxSKIjIhz3ooiiIyIc%2B6WooibAdepkmhKALBFKVJMoIiAB2Uxi9RFGEhL048oygCgxilaYUERaBeQWmaa%2BMim8Mn%2FLOB0kRLwyJZ1dvmnV6TZ7IBMLz40OG8HkB439OQCPvTv3BOePIwvhz0tUA3eVQJeeMLdHtLpsmGM%2Fgo0wMbXcQeZyohz6iwJsXQtkL3gbNpIL5Rd12Rl4NMmyuHPNuoM7r11vhUH4xlw6omN0OjO86BaKke2OT2tI6QZxt15gYGpEKewMDAsYUfqZAnMMLBWYp7CwRmZCkM1ayPeKiEPH%2BjTr9I5vNzINM1Rx6nwDAwCpgX8vgFjVHAolDCNQ9Lv62HfyAynFnHfPghfxfhb6iMy6YoRjTMb17IDDCrjJTPfUIj5dYM%2BVtz7MKagzDKR5MmeB73ukWAUwIu2nCaKRWRrKq4K%2FhERETHgUoaIjqOuNIQgeBd%2BdAxDREdx8CJiGg4mE9ERMOrEoiIaHh5BRER5deJFCdERADaT0nXP%2F8FL8GUiogyM1tEYOlZIgKvsSUiUKpYIgJD3xIRKHQtEdmFvCUiu5C3RAQeJ5aIQFC7jMgHXJ3ZRUSWcH1S7wIidTDAINYu4oVgglJFt0gLzLD2BUVIP1lsuoAvQvwD2THqaRRptsEc4UKbiF8AkxRbmkTGIzBLUNMh0tyCeTrKIt30ESiQekoi5S2Zi7kGsZgI%2FavS6pGQyA1cXrf2T4ncjAYLeQkRr7UGiozKQiJMYwhECRdHRWheJcYLeb5INB0BaYK3%2FIp8%2Fu26vQzIw7%2BO1v%2Bgc2ugyAXBNdjjnpVU5K6k5FzZ%2FJx7ZXN3S6OkEuOhk7y%2Fwn8kdO86lSKMyZVU57FCXBCsReTptUpgA23qd2Y7HA6Hw%2BFwOBwOh7X8AtlxcAOnEpvIAAAAAElFTkSuQmCC"></a>
+    <a href=''><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-black?logo=intellijidea">
+</a>
+
+    
 </p>
 
 ### Skill Development Tools
@@ -103,14 +105,8 @@ Although I am still in the early stages of my education, I have already discover
 ---
 <h3 align='center'> Currently Training:</h3>
 <p align ='center'>
-    <a href='https://www.python.org/'><img alt='Python' src='https://img.shields.io/badge/Python-3974A4?logo=python&logoColor=FFE364'/></a>
-    <a href='https://devdocs.io/cpp/'><img alt='C++' src='https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus'/></a>
-    <a href='https://visualstudio.microsoft.com/vs/'><img alt='Visual Studio' src='https://img.shields.io/badge/Visual%20Studio-%238B55CA?logo=visualstudio'/></a>
-    <a href='https://godotengine.org/'><img alt='Godot Engine' src='https://img.shields.io/badge/Godot%20Engine-24282F?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAAAtBAMAAADINP%2BpAAAAG1BMVEUAAABHjL5HjL%2F%2F%2F%2F9BQEKgxN6Wvtt%2BrtJyp87MYbzVAAAAAnRSTlMA%2FbWfQ5kAAAC1SURBVDjLvdFhCsIwDAXgqBepbyD%2BbhQPYE%2Fg%2FQ%2FjW0O6sqwiKj7G1n6EpmHyp%2ByR%2BAYC4yiyAxAc9o7OfO1oSV0tnyXcmCMkWXnMK8dG0qB%2B1Hfo3liziS3EXVWNJ9XcnLty5%2FYBcKGdX0rJmChcfO71WFSf2GhxUjaHKjq32AzR8Z4ffFqfWL3%2BZB21dr%2F295mdn9mxchqC2xlQXd%2F%2FbH4Dmkv8XdsDiCeUewJ7BtyayK%2FzBK6%2BUt09uDPLAAAAAElFTkSuQmCC'/></a>
-
-
+    <a href='https://www.oracle.com/java/technologies/downloads/'><img alt="Static Badge" src="https://img.shields.io/badge/Java-%23DF6D03?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAArlBMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8tivQqAAAAOXRSTlMA%2B%2FgIBvEMKSLjeujaFBDTpjs19bGhL7ZeQM7Fb7zBglXtnIx0RRuSaGMYl1qqTt6PhTLJrIlL1x6t5qirAAAHU0lEQVR42sTY21qjMBQF4BVOpaX0fLAdq0XbUWuV2tH6rfd%2FsfmgIWTkdjb5L7nZOxBgZeN%2FieHYvgO30jc41p3Are8R3MqnKVyKPN7ApRU5h0sncgiHBhkZBnCnR1IN4EycOW5gSZKeD1d6LORwZatYmMGR%2FZSlHdxYhSypDpzYh7y6gxPHKbUtXNgpausA7fNfWVF7tO%2BwoTFC%2ByY5jeTQbG%2B8PUDSTUhDXWCLj6e7RA1XEBQ8KtbuYaTbh1yR9O59CEo3tHxCi46zKUvrCSQt%2BrT8iVCKTwkL4svHe0jL9%2BFafu5R648haqdoyeMyk31NWZkPICl4oq3bAYBVn5XwBaKCEW1JWb%2BnWOmfISr4pC1ZFNceaCxTyBo162NO4zWArEc263%2BwonoQdlTN%2Bhdl6t9CWJzRkpXbLeq2Vx8zWsKxjuSVL0gbK9a8CwpRQm0TQNqIlmeUtqahDqT5GWuvP5t6g7iForGOcJVTu4W4Cw01wdVAUXuBuHcac2gdRa0HcWNq1inszMoS4lJlIhAqsbnm%2FYa4IbUTKn5oBVNxH9R2MDasZAdI66jmYp9pPEHcjFczGIOEFW8BaWfFUpjC6LHNF%2BGhuQmifpsn5LTLUj%2BAsVes%2FII0E3%2FeUTvRWEHcV3MgFK3bnBIESxbUGLXFlFoWQFw6bE4le9ZPQl6cl6UWqPlDanu0oNNtJKBtqw1gUXSgzqgFXfFH0LwHS1jmLCUB2hEPf3z37k1UbUl69%2B9s9MNE87b4c%2FIZxpsOKm3aefV00k%2F0sEpI9LdYM1tYEwaicIKyKvu%2BiqAsCrhhlfd%2FsVZ%2FtaFYymLb71YwIZmZkzlASd8MhzmEYUoiKkQH4IFxN6si0IRMwyA4%2BOxgO3jNqDaNwXudFbINQIl0E5Fkuzk%2By8yfJ4jtZkDZX28vPw%2B9ZTEBDR4ObVxV2Lnx84RZQsRM6KuUHEMjrXBMtbnGEOpH0IAiKbIIX%2F%2BCS6AP4g61QkTQQrHbNocniOc6OMunoTnpU23xCuHcmpDSpLZxkWgscl4l0Lr5RTLYDMPyRIymLdFCRKRYpEwseHP5bpWvAIIkIw1VR%2BzqV6C8szxFCOJ9eD4czufzPt6qguJ61nyGQ4iEW9Mr3j%2Beo0cyLqoRCOhAaAsr9qi0SjWUpdGMSDjgzV5CV0PAXAr8dgJZP7nxy2XVHYjN3TgRubam8ltvyRNXgoXD1nEhRtv53inIFiUyqi80MIQpJWbOYZvrtsVf5jd4y3b1PAgZJ1trUYfykld35DFqyZoSGMrmUQdcMBQusTH6OtrYSMAwJqvlqM8TKPyhKNzA%2B0%2FVjaBDtHCttoYzcPxnPQiu7ddlAY2vXhHZNHHs6ViLHtMdiXjz3BspO%2Bj0V7JaJkBAlYimBgYAVi90F1c9M06aGkbqrBax4PL1OgGDzdsFnB2Hm4M9maVoBj5un2tjGsGewAN4Ej28i5IFw4lU2Gd0i6HAE%2Brytf0ZGAcZ0h2VWEkoNP7ut80YDoxmKi48vF2GecGR6onm41UFTwnxsW5QMw65NcNgXQzlnS0cDIlrXB5C7MSQ4OMQV8385meGYfjFWiLZ6W8uYxbf2M%2B2w77KzzTw3zB27edqohBaY328G3BDNn%2FTmjjKTTB1Cvwtts%2BYKzNqiiQHqxVOYL%2FyA3f%2Bkkd0hEjc4xdPL%2FNS8aw5DmFV53QEf4NV1RnsTHwq3SLqyj7kPetTixdgNJwfezS8gc0U7RZlp84LkEugQc96YOZy7S9v5gpbwi4PzzNX8AaX6eEMUDqsVXhdEFTzNi0Fq1rB3RUJ3qPW%2FKN2viHdmKx%2BQyv8xlDn8O2D45bqiC2xV1aV1XENTGT133WZrGQw29w98V%2F9kS7EjGFSLcn%2F%2Bsgi7X3%2BsiYffeEa9PlE4bO2awK7v1Y9ojYLBz4BF8Me3gSBnnq86wdELN09Hqfjhu5ribWIwCgoZvdMKLHrgvEViqwYQ%2BcwPTI2fD1KAbpytao6mBVn5LSvl7BSZkg8X6TatoBWuAA2K83SVhlfiv44D45cJ3t9B6v6ThLo8IH2x2JkV%2B%2BB%2BO6kBCGTGP7aFCVNI0ntKInrwk%2B%2FusQZbE5%2Bea5tYuThHeR6rWCdhPcHf7jCS%2BvJXNCV0i0UVjasRiK7DgVqbFRYQRN0JEoFGg4e3A4RIXv69jdNUPslsh%2FqPWcBZ942kSZvStL8rjDcAJNNNBZ3Gx62xgM%2B94RFakbv08OZVzf4EdV1Gmmmn6wWcSCUiu66nufqSq5uw8UqLUSkRWsibZcPhd%2BAfw%2FJ8PD5xfu0v5aRxCgtMg8WfInbcZCaZmGcSENmQYgrfYl0LAUYytWx8Uu5yCS2sxaIyfYko4KirMEorqmC3zLslIeOL5Lc9H2YsuTaYFSPhr8e1ikwHsJ8mTQQyjRvu6UabOMwDG8vr0rd5ul3iYrZnzRJCMkReKxHOTwXLPg4nJiGygWH7W9v9L1xnIC%2FyPQq%2Bs4hKF1rTs9wDMPk5YzmbV3YM4bZJ3e%2FA2NbnMogw%2FVbAAAAAElFTkSuQmCC">
+</a>
 
 </p>
 
----
-<p align='center'><a href="https://postimg.cc/SXjjtDyr"><img src="https://i.postimg.cc/FKVczB82/billgates-sw-quote.png" alt="billgates-sw-quote" border="0"></a></p>
