@@ -3,7 +3,7 @@
 bio = {
     'name' : 'Evan Cooper',
     'position' : 'CSU-G Computer Science Junior',
-    'goal' : 'Aspiring Software Developer',
+    'goal' : 'Software Developer',
     'title' : 'Cat Dad'
 }
 
@@ -13,7 +13,7 @@ for key in bio:
 <h1 align='left'> Evan Cooper </h1>
 
 <h3 alight='left'> CSU-G Computer Science Junior 🏫 </h1>
-<h3 alight='left'> Aspiring Software Developer 💻 </h1>
+<h3 alight='left'> Software Developer 💻 </h1>
 <h3 alight='left'> Cat Dad 🐈 </h1>
 
 <p align='center'> <img src='https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif' width='240'/>
